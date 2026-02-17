@@ -1,10 +1,7 @@
-# TerminalChess-Project
-Console Chess Game in C++ A text-based, two-player chess game built in C++. Play chess directly in your terminal with full move validation, check/checkmate detection, and undo/redo functionality. Perfect for learning C++ game logic and practicing board-based algorithms.
-
+TerminalChess-Project
 
 Console Chess Game in C++
-
-A fully functional console-based chess game for two players with check, checkmate, undo, and redo functionality. Built in C++ for Windows.
+A text-based, two-player chess game built in C++. Play chess directly in your terminal with full move validation, check/checkmate detection, and undo/redo functionality. Perfect for learning C++ game logic and practicing board-based algorithms.
 
 Features
 
