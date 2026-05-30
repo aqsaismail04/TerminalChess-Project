@@ -126,8 +126,8 @@ terminal-chess-cpp/
 ---
 ## 👥 Contributors
 
-| Name | GitHub |
-|------|--------|
-| Aqsa Ismail | [aqsaismail04](https://github.com/aqsaismail04) |
-| Amna | - |
-| Jannat | - |
+|     Name    |
+|-------------|
+| Aqsa Ismail |
+| Amna Tariq  |
+| Jannat Waqas |
