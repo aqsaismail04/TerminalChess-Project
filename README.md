@@ -124,7 +124,10 @@ terminal-chess-cpp/
 - Undo/Redo history stores up to 1000 moves
 
 ---
+## 👥 Contributors
 
-## 👩‍💻 Author
-
-**Aqsa Ismail** | [GitHub](https://github.com/aqsaismail04) | [LinkedIn](https://www.linkedin.com/in/aqsaismail04/)
+| Name | GitHub |
+|------|--------|
+| Aqsa Ismail | [aqsaismail04](https://github.com/aqsaismail04) |
+| Amna | - |
+| Jannat | - |
